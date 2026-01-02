@@ -1,0 +1,8 @@
+name: SMSML_Ibnul-Mahdi
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    command:  "py modelling.py"
+    
